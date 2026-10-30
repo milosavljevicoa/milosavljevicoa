@@ -1,7 +1,14 @@
-### Hi there 👋
+```
+aleksandar@software_engineer ~> fetch.sh -u milosavljevicoa
 
-I am web developer who likes to try out new things. 
+                               milosavljevicoa@GitHub
+                               ----------------------
+                               Role:       Software Engineer
+                               StartedAt:  Jul 2020 UTC
+           ,___,               Kernel:     .NET, React, PostgreSQL
+           {o,o}               Cloud:      AWS, Azure
+           /)__)               Interests:  Go, Rust
+           -"-"-               IDE/AI:     Neovim, JetBrains, Claude Code
 
-- I like to optimaze my workflow,
-- to learn new architecutre/design patterns, langagues, etc. and 
-- to better understand software to ultimatly craft software that I am proud of.
+aleksandar@software_engineer ~> # Have a nice day kind stranger :D Thanks for stopping by!
+```
